@@ -16,4 +16,5 @@ I žеlim neki dan posjetiti ove lepe zemlje
 
 Также учусь в институте,но специальность на которую я учусь мне не очень нравится,поэтому сейчас занимаюсь программирование
 
-https://nvc.moscow/images/news/2017-04-16b.jpg
+
+![Uploading 2017-04-16b.jpg…]()
